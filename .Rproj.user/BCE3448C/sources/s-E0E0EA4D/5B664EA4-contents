@@ -1,0 +1,5 @@
+library(here)
+today <- Sys.Date()
+yaml <- paste("---", 
+              "date: ",
+              sep = "\n")
