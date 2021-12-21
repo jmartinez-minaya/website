@@ -75,9 +75,9 @@ email: ""
 highlight_name: true
 ---
 
-Welcome!
+I am from Villanueva de la Jara, an amazing village in the heart of Spain (http://www.villanuevadelajara.es/). I was born in 1990, and after living in Villanueva de la Jara, Valencia, Bilbao, and for short periods of time in Edinburgh and Jeddah, I am living in Valencia again. 
 
-This website is devoted to it, the scientific discipline that has always fascinated me: Statistics. My research interest lies in statistical modeling for complex data. In particular, **I develop Bayesian Spatio-Temporal models in different contexts**: Plant disease epidemiology, Global climate change, marine species distribution and disease epidemiology.
+My research interest lies in statistical modeling for complex data. In particular, **I develop Bayesian Spatio-Temporal models in different contexts**: Plant disease epidemiology, Global climate change, marine species distribution and disease epidemiology.
 
 I am also implementing new statistical methods to deal with **compositional data** under the **Integrated Nested Laplace Approximation (INLA)** and **Hamiltonian Monte Carlo** methods. In Addition, I am captivated by model selection techniques, in particular, I am interested in finding metamodels
 that best represent a process using techniques such as **Bayesian Model Averaging**.

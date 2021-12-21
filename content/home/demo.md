@@ -10,13 +10,13 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 19
+weight: 15
 
-title:
-subtitle:
+title: 
+subtitle: 
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: fondo.jpg
     image_darken: 1.0
@@ -25,8 +25,9 @@ design:
     image_size: cover
     text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["30px", "0", "40px", "0"]
 ---
+
 </br>
 </br>
 </br>
@@ -40,51 +41,8 @@ design:
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
+
+
 
 

@@ -29,13 +29,7 @@ experience:
     location: Valencia, Spain
     date_start: '2021-07-27'
     date_end: ''
-    description: |2-
-        Responsibilities include teaching
-        
-        * Research in Statistics
-        * Teaching
-        * Deploying
-        
+
   - title: Postdoctoral Researcher
     company: Basque Center for Applied Mathematics
     company_url: 'http://www.bcamath.org/es/'

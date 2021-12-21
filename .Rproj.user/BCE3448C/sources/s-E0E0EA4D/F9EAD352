@@ -3,7 +3,7 @@
     "path": "C:/Users/jomar/GITHUB/website/content/home/about.md",
     "project_path": "content/home/about.md",
     "type": "markdown",
-    "hash": "500833277",
+    "hash": "564407264",
     "contents": "",
     "dirty": false,
     "created": 1640084801701.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "14,7",
+        "cursorPosition": "14,16",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1640084948,
+    "lastKnownWriteTime": 1640087481,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1640084948819,
+    "last_content_update": 1640087481962,
     "read_only": false,
     "read_only_alternatives": []
 }
