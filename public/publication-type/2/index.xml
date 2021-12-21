@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Joaquín Martínez-Minaya</title>
+    <link>https://academic-demo.netlify.app/publication-type/2/</link>
+      <atom:link href="https://academic-demo.netlify.app/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://academic-demo.netlify.app/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Inoculum Availability of Plurivorosphaerella nawae in Persimmon Leaf Litter with Bayesian Beta Regression</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2021/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating Biotic Information in Species Distribution Models: A Coregionalized Approach</title>
+      <link>https://academic-demo.netlify.app/publication/barber_2020/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/barber_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Bayesian Modeling Applied to the Surveys of Xylella fastidiosa in Alicante (Spain) and Apulia (Italy)</title>
+      <link>https://academic-demo.netlify.app/publication/cendoya_2020/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/cendoya_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A decision support system based on degree-days to initiate fungicide spray programs for peach powdery mildew in Catalonia, Spain</title>
+      <link>https://academic-demo.netlify.app/publication/marimon_2020/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/marimon_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological, genetic and evolutionary drivers of regional genetic differentiation in Arabidopsis thaliana</title>
+      <link>https://academic-demo.netlify.app/publication/castilla_2020/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/castilla_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Frequentist and Bayesian Meta-Analysis Models for Assessing the Efficacy of Decision Support Systems in Reducing Fungal Disease Incidence</title>
+      <link>https://academic-demo.netlify.app/publication/lazaro_2020/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/lazaro_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Integrated nested Laplace approximation for fitting models with multivariate response</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2020/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Dealing with physical barriers in bottlenose dolphin (Tursiops truncatus) distribution</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2019b/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hierarchical Bayesian Beta regression approach to study the effects of geographical genetic structure and spatial autocorrelation on species distribution range shifts</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2019a/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Species distribution modeling: a statistical review with focus in spatio-temporal issues</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2018a/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial and climatic factors associated with the geographical distribution of citrus black spot disease in South Africa. A Bayesian latent Gaussian model approach</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2018b/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un sistema predictivo para el control de la mancha foliar del caqui causada por Mycosphaerella nawae</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2017_esp/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2017_esp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to the letter on &#39;Climatic distribution of citrus black spot caused by Phyllosticta citricarpa. A historical analysis of disease spread in South Africa&#39; by Fourie et al. (2017)</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2017/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factores climáticos asociados con la mancha negra de los cítricos causada por Phyllosticta citricarpa en Sudáfrica</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2015_esp/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2015_esp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climatic distribution of citrus black spot caused by Phyllosticta citricarpa. A historical analysis of disease spread in South Africa</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2015/</link>
+      <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

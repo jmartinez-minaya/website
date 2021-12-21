@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxent | Joaquín Martínez-Minaya</title>
+    <link>https://academic-demo.netlify.app/tag/maxent/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/maxent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maxent</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Maxent</title>
+      <link>https://academic-demo.netlify.app/tag/maxent/</link>
+    </image>
+    
+    <item>
+      <title>A hierarchical Bayesian Beta regression approach to study the effects of geographical genetic structure and spatial autocorrelation on species distribution range shifts</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2019a/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2019a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

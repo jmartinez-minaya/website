@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta regression | Joaquín Martínez-Minaya</title>
+    <link>https://academic-demo.netlify.app/tag/beta-regression/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/beta-regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beta regression</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Beta regression</title>
+      <link>https://academic-demo.netlify.app/tag/beta-regression/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Hierarchical Models in Plant Disease</title>
+      <link>https://academic-demo.netlify.app/project/bhm-plant-disease/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/bhm-plant-disease/</guid>
+      <description>&lt;p&gt;This project shows how the use of Bayesian hierarchical models can help in the establishment of measures for plant diseases control. Applications to the citrus black spot, circular leaf spot in kakhi and Peach Powdery Mildew.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A decision support system based on degree-days to initiate fungicide spray programs for peach powdery mildew in Catalonia, Spain</title>
+      <link>https://academic-demo.netlify.app/publication/marimon_2020/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/marimon_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

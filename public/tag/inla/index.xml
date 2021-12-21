@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INLA | Joaquín Martínez-Minaya</title>
+    <link>https://academic-demo.netlify.app/tag/inla/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/inla/index.xml" rel="self" type="application/rss+xml" />
+    <description>INLA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>INLA</title>
+      <link>https://academic-demo.netlify.app/tag/inla/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Hierarchical Models in Plant Disease</title>
+      <link>https://academic-demo.netlify.app/project/bhm-plant-disease/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/bhm-plant-disease/</guid>
+      <description>&lt;p&gt;This project shows how the use of Bayesian hierarchical models can help in the establishment of measures for plant diseases control. Applications to the citrus black spot, circular leaf spot in kakhi and Peach Powdery Mildew.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incorporating Biotic Information in Species Distribution Models: A Coregionalized Approach</title>
+      <link>https://academic-demo.netlify.app/publication/barber_2020/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/barber_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Integrated nested Laplace approximation for fitting models with multivariate response</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2020/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Dealing with physical barriers in bottlenose dolphin (Tursiops truncatus) distribution</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2019b/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Species distribution modeling: a statistical review with focus in spatio-temporal issues</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2018a/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial and climatic factors associated with the geographical distribution of citrus black spot disease in South Africa. A Bayesian latent Gaussian model approach</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2018b/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2018b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

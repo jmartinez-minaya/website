@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jordi Luque | Joaquín Martínez-Minaya</title>
+    <link>https://academic-demo.netlify.app/author/jordi-luque/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/jordi-luque/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jordi Luque</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jordi Luque</title>
+      <link>https://academic-demo.netlify.app/author/jordi-luque/</link>
+    </image>
+    
+    <item>
+      <title>A decision support system based on degree-days to initiate fungicide spray programs for peach powdery mildew in Catalonia, Spain</title>
+      <link>https://academic-demo.netlify.app/publication/marimon_2020/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/marimon_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

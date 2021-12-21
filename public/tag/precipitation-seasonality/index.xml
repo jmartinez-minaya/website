@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Precipitation seasonality | Joaquín Martínez-Minaya</title>
+    <link>https://academic-demo.netlify.app/tag/precipitation-seasonality/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/precipitation-seasonality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Precipitation seasonality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Precipitation seasonality</title>
+      <link>https://academic-demo.netlify.app/tag/precipitation-seasonality/</link>
+    </image>
+    
+    <item>
+      <title>Ecological, genetic and evolutionary drivers of regional genetic differentiation in Arabidopsis thaliana</title>
+      <link>https://academic-demo.netlify.app/publication/castilla_2020/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/castilla_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

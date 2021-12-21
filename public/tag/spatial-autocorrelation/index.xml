@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial autocorrelation | Joaquín Martínez-Minaya</title>
+    <link>https://academic-demo.netlify.app/tag/spatial-autocorrelation/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/spatial-autocorrelation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial autocorrelation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Spatial autocorrelation</title>
+      <link>https://academic-demo.netlify.app/tag/spatial-autocorrelation/</link>
+    </image>
+    
+    <item>
+      <title>A hierarchical Bayesian Beta regression approach to study the effects of geographical genetic structure and spatial autocorrelation on species distribution range shifts</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2019a/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to the letter on &#39;Climatic distribution of citrus black spot caused by Phyllosticta citricarpa. A historical analysis of disease spread in South Africa&#39; by Fourie et al. (2017)</title>
+      <link>https://academic-demo.netlify.app/publication/martinez-minaya_2017/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/martinez-minaya_2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

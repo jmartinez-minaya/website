@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian | Joaquín Martínez-Minaya</title>
+    <link>https://academic-demo.netlify.app/tag/bayesian/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Bayesian</title>
+      <link>https://academic-demo.netlify.app/tag/bayesian/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Hierarchical Models in Plant Disease</title>
+      <link>https://academic-demo.netlify.app/project/bhm-plant-disease/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/bhm-plant-disease/</guid>
+      <description>&lt;p&gt;This project shows how the use of Bayesian hierarchical models can help in the establishment of measures for plant diseases control. Applications to the citrus black spot, circular leaf spot in kakhi and Peach Powdery Mildew.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
